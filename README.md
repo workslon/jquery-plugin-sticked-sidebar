@@ -1,4 +1,4 @@
-jquiery-plugin-sticked-sidebar
+jquery-plugin-sticked-sidebar
 ==============================
 
 Sticked bar jquery plugin
